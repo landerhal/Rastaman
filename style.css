@@ -6,12 +6,13 @@ background-color:  black;
  background-position: center;
 }
 img{
-  height: 1000px;
+  height: 50%;
   width:100%;
+  padding-top: 10px;
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 200px;
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 h1, h2{
   font-size:5vw;
